@@ -16,6 +16,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/AmanCutinha/Leetcode/tree/master/0014-longest-common-prefix) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/AmanCutinha/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Trie
 |  |
 | ------- |
@@ -32,6 +33,7 @@
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/AmanCutinha/Leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/AmanCutinha/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -44,4 +46,8 @@
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/AmanCutinha/Leetcode/tree/master/0451-sort-characters-by-frequency) |
+## Greedy
+|  |
+| ------- |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/AmanCutinha/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 <!---LeetCode Topics End-->
