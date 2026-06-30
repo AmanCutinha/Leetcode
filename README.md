@@ -12,6 +12,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/AmanCutinha/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/AmanCutinha/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0796-rotate-string](https://github.com/AmanCutinha/Leetcode/tree/master/0796-rotate-string) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/AmanCutinha/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Array
 |  |
 | ------- |
@@ -50,4 +51,8 @@
 |  |
 | ------- |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/AmanCutinha/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+## Stack
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/AmanCutinha/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
