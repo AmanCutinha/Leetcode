@@ -15,6 +15,7 @@
 | [0520-detect-capital](https://github.com/AmanCutinha/Leetcode/tree/master/0520-detect-capital) |
 | [0796-rotate-string](https://github.com/AmanCutinha/Leetcode/tree/master/0796-rotate-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/AmanCutinha/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/AmanCutinha/Leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Array
 |  |
 | ------- |
@@ -32,6 +33,7 @@
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/AmanCutinha/Leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/AmanCutinha/Leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Sorting
 |  |
 | ------- |
@@ -49,6 +51,7 @@
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/AmanCutinha/Leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/AmanCutinha/Leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Greedy
 |  |
 | ------- |
