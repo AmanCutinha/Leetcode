@@ -8,23 +8,63 @@
  *     ListNode(int x, ListNode *next) : val(x), next(next) {}
  * };
  */
+
 class Solution {
 public:
+
+    ListNode* findMid(ListNode* head){
+        ListNode* slow = head;
+        ListNode* fast = head->next;
+
+        while(fast && fast->next){
+            slow = slow->next;
+            fast = fast->next->next;
+        }
+
+        return slow;
+    }
+
+    ListNode* merge(ListNode* left, ListNode* right){
+
+        ListNode dummy(-1);
+        ListNode* temp = &dummy;
+
+        while(left && right){
+            if(left->val <= right->val){
+                temp->next = left;
+                left = left->next;
+            }
+            else{
+                temp->next = right;
+                right = right->next;
+            }
+            temp = temp->next;
+        }
+
+        if(left)
+            temp->next = left;
+        else
+            temp->next = right;
+
+        return dummy.next;
+    }
+
     ListNode* sortList(ListNode* head) {
-        ListNode* temp=head;
-        vector<int> v;
-        int i=0;
-        while(temp){
-            v.push_back(temp->val);
-            i++;
-            temp=temp->next;
-        }
-        sort(v.begin(),v.end());
-        temp=head;
-        for(int i=0;i<v.size();i++){
-            temp->val=v[i];
-            temp=temp->next;
-        }
-        return head;
+
+        if(head == nullptr || head->next == nullptr)
+            return head;
+
+        // Find middle
+        ListNode* mid = findMid(head);
+
+        ListNode* right = mid->next;
+        mid->next = nullptr;
+
+        // Sort both halves
+        ListNode* left = sortList(head);
+        right = sortList(right);
+
+        // Merge
+        return merge(left, right);
     }
 };
