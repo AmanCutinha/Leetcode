@@ -100,4 +100,8 @@
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/AmanCutinha/Leetcode/tree/master/0148-sort-list) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/AmanCutinha/Leetcode/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
