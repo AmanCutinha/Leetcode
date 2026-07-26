@@ -27,6 +27,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/AmanCutinha/Leetcode/tree/master/0014-longest-common-prefix) |
+| [0628-maximum-product-of-three-numbers](https://github.com/AmanCutinha/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1004-max-consecutive-ones-iii](https://github.com/AmanCutinha/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1331-rank-transform-of-an-array](https://github.com/AmanCutinha/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/AmanCutinha/Leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
@@ -54,6 +55,7 @@
 | ------- |
 | [0148-sort-list](https://github.com/AmanCutinha/Leetcode/tree/master/0148-sort-list) |
 | [0451-sort-characters-by-frequency](https://github.com/AmanCutinha/Leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0628-maximum-product-of-three-numbers](https://github.com/AmanCutinha/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1331-rank-transform-of-an-array](https://github.com/AmanCutinha/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/AmanCutinha/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3536-maximum-product-of-two-digits](https://github.com/AmanCutinha/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
@@ -116,6 +118,7 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/AmanCutinha/Leetcode/tree/master/0050-powx-n) |
+| [0628-maximum-product-of-three-numbers](https://github.com/AmanCutinha/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1922-count-good-numbers](https://github.com/AmanCutinha/Leetcode/tree/master/1922-count-good-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/AmanCutinha/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/AmanCutinha/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
