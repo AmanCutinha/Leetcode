@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/AmanCutinha/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/AmanCutinha/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/AmanCutinha/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/AmanCutinha/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/AmanCutinha/Leetcode/tree/master/0148-sort-list) |
@@ -31,6 +32,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/AmanCutinha/Leetcode/tree/master/0014-longest-common-prefix) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/AmanCutinha/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AmanCutinha/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1004-max-consecutive-ones-iii](https://github.com/AmanCutinha/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1331-rank-transform-of-an-array](https://github.com/AmanCutinha/Leetcode/tree/master/1331-rank-transform-of-an-array) |
