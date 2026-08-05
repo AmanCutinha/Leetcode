@@ -12,6 +12,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/AmanCutinha/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0234-palindrome-linked-list](https://github.com/AmanCutinha/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0345-reverse-vowels-of-a-string](https://github.com/AmanCutinha/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0455-assign-cookies](https://github.com/AmanCutinha/Leetcode/tree/master/0455-assign-cookies) |
 | [0876-middle-of-the-linked-list](https://github.com/AmanCutinha/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/AmanCutinha/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 ## String
@@ -34,6 +35,7 @@
 | ------- |
 | [0014-longest-common-prefix](https://github.com/AmanCutinha/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AmanCutinha/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0455-assign-cookies](https://github.com/AmanCutinha/Leetcode/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AmanCutinha/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0930-binary-subarrays-with-sum](https://github.com/AmanCutinha/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/AmanCutinha/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
@@ -68,6 +70,7 @@
 | ------- |
 | [0148-sort-list](https://github.com/AmanCutinha/Leetcode/tree/master/0148-sort-list) |
 | [0451-sort-characters-by-frequency](https://github.com/AmanCutinha/Leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0455-assign-cookies](https://github.com/AmanCutinha/Leetcode/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AmanCutinha/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1331-rank-transform-of-an-array](https://github.com/AmanCutinha/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AmanCutinha/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -92,6 +95,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0455-assign-cookies](https://github.com/AmanCutinha/Leetcode/tree/master/0455-assign-cookies) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/AmanCutinha/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/AmanCutinha/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 ## Stack
@@ -170,4 +174,8 @@
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/AmanCutinha/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Quicksort
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/AmanCutinha/Leetcode/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
