@@ -41,6 +41,7 @@
 | [0088-merge-sorted-array](https://github.com/AmanCutinha/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0455-assign-cookies](https://github.com/AmanCutinha/Leetcode/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AmanCutinha/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0860-lemonade-change](https://github.com/AmanCutinha/Leetcode/tree/master/0860-lemonade-change) |
 | [0930-binary-subarrays-with-sum](https://github.com/AmanCutinha/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/AmanCutinha/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1331-rank-transform-of-an-array](https://github.com/AmanCutinha/Leetcode/tree/master/1331-rank-transform-of-an-array) |
@@ -101,6 +102,7 @@
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/AmanCutinha/Leetcode/tree/master/0455-assign-cookies) |
+| [0860-lemonade-change](https://github.com/AmanCutinha/Leetcode/tree/master/0860-lemonade-change) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/AmanCutinha/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/AmanCutinha/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 ## Stack
