@@ -39,6 +39,7 @@
 | ------- |
 | [0014-longest-common-prefix](https://github.com/AmanCutinha/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AmanCutinha/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0045-jump-game-ii](https://github.com/AmanCutinha/Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/AmanCutinha/Leetcode/tree/master/0055-jump-game) |
 | [0088-merge-sorted-array](https://github.com/AmanCutinha/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0455-assign-cookies](https://github.com/AmanCutinha/Leetcode/tree/master/0455-assign-cookies) |
@@ -103,6 +104,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/AmanCutinha/Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/AmanCutinha/Leetcode/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/AmanCutinha/Leetcode/tree/master/0455-assign-cookies) |
 | [0678-valid-parenthesis-string](https://github.com/AmanCutinha/Leetcode/tree/master/0678-valid-parenthesis-string) |
@@ -193,6 +195,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/AmanCutinha/Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/AmanCutinha/Leetcode/tree/master/0055-jump-game) |
 | [0678-valid-parenthesis-string](https://github.com/AmanCutinha/Leetcode/tree/master/0678-valid-parenthesis-string) |
 ## Bracket Sequences
