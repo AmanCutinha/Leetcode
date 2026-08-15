@@ -6,6 +6,7 @@
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/AmanCutinha/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AmanCutinha/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/AmanCutinha/Leetcode/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/AmanCutinha/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/AmanCutinha/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/AmanCutinha/Leetcode/tree/master/0142-linked-list-cycle-ii) |
@@ -39,6 +40,7 @@
 | ------- |
 | [0014-longest-common-prefix](https://github.com/AmanCutinha/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AmanCutinha/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/AmanCutinha/Leetcode/tree/master/0027-remove-element) |
 | [0045-jump-game-ii](https://github.com/AmanCutinha/Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/AmanCutinha/Leetcode/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/AmanCutinha/Leetcode/tree/master/0057-insert-interval) |
