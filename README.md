@@ -52,6 +52,7 @@
 | [0088-merge-sorted-array](https://github.com/AmanCutinha/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0135-candy](https://github.com/AmanCutinha/Leetcode/tree/master/0135-candy) |
 | [0198-house-robber](https://github.com/AmanCutinha/Leetcode/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/AmanCutinha/Leetcode/tree/master/0200-number-of-islands) |
 | [0347-top-k-frequent-elements](https://github.com/AmanCutinha/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/AmanCutinha/Leetcode/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AmanCutinha/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -198,6 +199,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/AmanCutinha/Leetcode/tree/master/0200-number-of-islands) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/AmanCutinha/Leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
 ## Sliding Window
 |  |
@@ -267,4 +269,16 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/AmanCutinha/Leetcode/tree/master/0070-climbing-stairs) |
+## Depth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/AmanCutinha/Leetcode/tree/master/0200-number-of-islands) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/AmanCutinha/Leetcode/tree/master/0200-number-of-islands) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/AmanCutinha/Leetcode/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
