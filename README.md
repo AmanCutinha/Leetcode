@@ -182,6 +182,7 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/AmanCutinha/Leetcode/tree/master/0050-powx-n) |
+| [0070-climbing-stairs](https://github.com/AmanCutinha/Leetcode/tree/master/0070-climbing-stairs) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AmanCutinha/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/AmanCutinha/Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1922-count-good-numbers](https://github.com/AmanCutinha/Leetcode/tree/master/1922-count-good-numbers) |
@@ -230,6 +231,7 @@
 | ------- |
 | [0045-jump-game-ii](https://github.com/AmanCutinha/Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/AmanCutinha/Leetcode/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/AmanCutinha/Leetcode/tree/master/0070-climbing-stairs) |
 | [0678-valid-parenthesis-string](https://github.com/AmanCutinha/Leetcode/tree/master/0678-valid-parenthesis-string) |
 ## Bracket Sequences
 |  |
@@ -259,4 +261,8 @@
 |  |
 | ------- |
 | [1927-sum-game](https://github.com/AmanCutinha/Leetcode/tree/master/1927-sum-game) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/AmanCutinha/Leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
