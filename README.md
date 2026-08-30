@@ -24,6 +24,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/AmanCutinha/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0008-string-to-integer-atoi](https://github.com/AmanCutinha/Leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0014-longest-common-prefix](https://github.com/AmanCutinha/Leetcode/tree/master/0014-longest-common-prefix) |
+| [0022-generate-parentheses](https://github.com/AmanCutinha/Leetcode/tree/master/0022-generate-parentheses) |
 | [0058-length-of-last-word](https://github.com/AmanCutinha/Leetcode/tree/master/0058-length-of-last-word) |
 | [0151-reverse-words-in-a-string](https://github.com/AmanCutinha/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/AmanCutinha/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
@@ -242,6 +243,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/AmanCutinha/Leetcode/tree/master/0022-generate-parentheses) |
 | [0045-jump-game-ii](https://github.com/AmanCutinha/Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/AmanCutinha/Leetcode/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/AmanCutinha/Leetcode/tree/master/0070-climbing-stairs) |
@@ -250,6 +252,7 @@
 ## Bracket Sequences
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/AmanCutinha/Leetcode/tree/master/0022-generate-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/AmanCutinha/Leetcode/tree/master/0678-valid-parenthesis-string) |
 ## Bit Manipulation
 |  |
@@ -311,4 +314,8 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/AmanCutinha/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/AmanCutinha/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/AmanCutinha/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/AmanCutinha/Leetcode/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
