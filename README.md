@@ -67,6 +67,7 @@
 | [1331-rank-transform-of-an-array](https://github.com/AmanCutinha/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1386-cinema-seat-allocation](https://github.com/AmanCutinha/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/AmanCutinha/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/AmanCutinha/Leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AmanCutinha/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/AmanCutinha/Leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/AmanCutinha/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
