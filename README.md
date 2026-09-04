@@ -77,6 +77,7 @@
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/AmanCutinha/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/AmanCutinha/Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3875-construct-uniform-parity-array-i](https://github.com/AmanCutinha/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
+| [3903-smallest-stable-index-i](https://github.com/AmanCutinha/Leetcode/tree/master/3903-smallest-stable-index-i) |
 ## Trie
 |  |
 | ------- |
@@ -238,6 +239,7 @@
 | [0930-binary-subarrays-with-sum](https://github.com/AmanCutinha/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/AmanCutinha/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/AmanCutinha/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [3903-smallest-stable-index-i](https://github.com/AmanCutinha/Leetcode/tree/master/3903-smallest-stable-index-i) |
 ## Counting Sort
 |  |
 | ------- |
