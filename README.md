@@ -49,6 +49,7 @@
 | [0014-longest-common-prefix](https://github.com/AmanCutinha/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AmanCutinha/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/AmanCutinha/Leetcode/tree/master/0027-remove-element) |
+| [0041-first-missing-positive](https://github.com/AmanCutinha/Leetcode/tree/master/0041-first-missing-positive) |
 | [0045-jump-game-ii](https://github.com/AmanCutinha/Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/AmanCutinha/Leetcode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/AmanCutinha/Leetcode/tree/master/0056-merge-intervals) |
@@ -94,6 +95,7 @@
 | [0001-two-sum](https://github.com/AmanCutinha/Leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AmanCutinha/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/AmanCutinha/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0041-first-missing-positive](https://github.com/AmanCutinha/Leetcode/tree/master/0041-first-missing-positive) |
 | [0141-linked-list-cycle](https://github.com/AmanCutinha/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/AmanCutinha/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0347-top-k-frequent-elements](https://github.com/AmanCutinha/Leetcode/tree/master/0347-top-k-frequent-elements) |
