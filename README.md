@@ -31,6 +31,7 @@
 | [0125-valid-palindrome](https://github.com/AmanCutinha/Leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/AmanCutinha/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/AmanCutinha/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0412-fizz-buzz](https://github.com/AmanCutinha/Leetcode/tree/master/0412-fizz-buzz) |
 | [0451-sort-characters-by-frequency](https://github.com/AmanCutinha/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0520-detect-capital](https://github.com/AmanCutinha/Leetcode/tree/master/0520-detect-capital) |
 | [0678-valid-parenthesis-string](https://github.com/AmanCutinha/Leetcode/tree/master/0678-valid-parenthesis-string) |
@@ -207,6 +208,7 @@
 | [0070-climbing-stairs](https://github.com/AmanCutinha/Leetcode/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/AmanCutinha/Leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/AmanCutinha/Leetcode/tree/master/0326-power-of-three) |
+| [0412-fizz-buzz](https://github.com/AmanCutinha/Leetcode/tree/master/0412-fizz-buzz) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AmanCutinha/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/AmanCutinha/Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1922-count-good-numbers](https://github.com/AmanCutinha/Leetcode/tree/master/1922-count-good-numbers) |
@@ -284,6 +286,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/AmanCutinha/Leetcode/tree/master/0412-fizz-buzz) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/AmanCutinha/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Euclidean Algorithm
 |  |
