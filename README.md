@@ -80,6 +80,7 @@
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/AmanCutinha/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/AmanCutinha/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/AmanCutinha/Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3483-unique-3-digit-even-numbers](https://github.com/AmanCutinha/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3875-construct-uniform-parity-array-i](https://github.com/AmanCutinha/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3903-smallest-stable-index-i](https://github.com/AmanCutinha/Leetcode/tree/master/3903-smallest-stable-index-i) |
 ## Trie
@@ -108,6 +109,7 @@
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/AmanCutinha/Leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/AmanCutinha/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/AmanCutinha/Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3483-unique-3-digit-even-numbers](https://github.com/AmanCutinha/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Sorting
 |  |
 | ------- |
@@ -188,6 +190,7 @@
 | [0234-palindrome-linked-list](https://github.com/AmanCutinha/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/AmanCutinha/Leetcode/tree/master/0326-power-of-three) |
 | [1922-count-good-numbers](https://github.com/AmanCutinha/Leetcode/tree/master/1922-count-good-numbers) |
+| [3483-unique-3-digit-even-numbers](https://github.com/AmanCutinha/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -201,6 +204,7 @@
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/AmanCutinha/Leetcode/tree/master/1291-sequential-digits) |
+| [3483-unique-3-digit-even-numbers](https://github.com/AmanCutinha/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Math
 |  |
 | ------- |
