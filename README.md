@@ -218,6 +218,7 @@
 | [0326-power-of-three](https://github.com/AmanCutinha/Leetcode/tree/master/0326-power-of-three) |
 | [0412-fizz-buzz](https://github.com/AmanCutinha/Leetcode/tree/master/0412-fizz-buzz) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AmanCutinha/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0836-rectangle-overlap](https://github.com/AmanCutinha/Leetcode/tree/master/0836-rectangle-overlap) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/AmanCutinha/Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1922-count-good-numbers](https://github.com/AmanCutinha/Leetcode/tree/master/1922-count-good-numbers) |
 | [1927-sum-game](https://github.com/AmanCutinha/Leetcode/tree/master/1927-sum-game) |
@@ -363,4 +364,8 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AmanCutinha/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/AmanCutinha/Leetcode/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
