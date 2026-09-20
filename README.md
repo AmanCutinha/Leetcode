@@ -45,6 +45,7 @@
 | [1768-merge-strings-alternately](https://github.com/AmanCutinha/Leetcode/tree/master/1768-merge-strings-alternately) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/AmanCutinha/Leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1927-sum-game](https://github.com/AmanCutinha/Leetcode/tree/master/1927-sum-game) |
+| [3498-reverse-degree-of-a-string](https://github.com/AmanCutinha/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/AmanCutinha/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Array
 |  |
@@ -307,6 +308,7 @@
 | ------- |
 | [0412-fizz-buzz](https://github.com/AmanCutinha/Leetcode/tree/master/0412-fizz-buzz) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/AmanCutinha/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3498-reverse-degree-of-a-string](https://github.com/AmanCutinha/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Euclidean Algorithm
 |  |
 | ------- |
