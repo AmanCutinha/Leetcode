@@ -87,6 +87,7 @@
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/AmanCutinha/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/AmanCutinha/Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/AmanCutinha/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
+| [3524-find-x-value-of-array-i](https://github.com/AmanCutinha/Leetcode/tree/master/3524-find-x-value-of-array-i) |
 | [3875-construct-uniform-parity-array-i](https://github.com/AmanCutinha/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3903-smallest-stable-index-i](https://github.com/AmanCutinha/Leetcode/tree/master/3903-smallest-stable-index-i) |
 ## Trie
@@ -230,6 +231,7 @@
 | [1927-sum-game](https://github.com/AmanCutinha/Leetcode/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/AmanCutinha/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2614-prime-in-diagonal](https://github.com/AmanCutinha/Leetcode/tree/master/2614-prime-in-diagonal) |
+| [3524-find-x-value-of-array-i](https://github.com/AmanCutinha/Leetcode/tree/master/3524-find-x-value-of-array-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/AmanCutinha/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/AmanCutinha/Leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3870-count-commas-in-range](https://github.com/AmanCutinha/Leetcode/tree/master/3870-count-commas-in-range) |
@@ -289,6 +291,7 @@
 | [0678-valid-parenthesis-string](https://github.com/AmanCutinha/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/AmanCutinha/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/AmanCutinha/Leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [3524-find-x-value-of-array-i](https://github.com/AmanCutinha/Leetcode/tree/master/3524-find-x-value-of-array-i) |
 ## Bracket Sequences
 |  |
 | ------- |
