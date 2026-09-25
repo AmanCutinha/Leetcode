@@ -92,6 +92,7 @@
 | [3483-unique-3-digit-even-numbers](https://github.com/AmanCutinha/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3524-find-x-value-of-array-i](https://github.com/AmanCutinha/Leetcode/tree/master/3524-find-x-value-of-array-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/AmanCutinha/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3771-total-score-of-dungeon-runs](https://github.com/AmanCutinha/Leetcode/tree/master/3771-total-score-of-dungeon-runs) |
 | [3875-construct-uniform-parity-array-i](https://github.com/AmanCutinha/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3903-smallest-stable-index-i](https://github.com/AmanCutinha/Leetcode/tree/master/3903-smallest-stable-index-i) |
 ## Trie
@@ -272,6 +273,7 @@
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/AmanCutinha/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/AmanCutinha/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2540-minimum-common-value](https://github.com/AmanCutinha/Leetcode/tree/master/2540-minimum-common-value) |
+| [3771-total-score-of-dungeon-runs](https://github.com/AmanCutinha/Leetcode/tree/master/3771-total-score-of-dungeon-runs) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -281,6 +283,7 @@
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/AmanCutinha/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/AmanCutinha/Leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/AmanCutinha/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [3771-total-score-of-dungeon-runs](https://github.com/AmanCutinha/Leetcode/tree/master/3771-total-score-of-dungeon-runs) |
 | [3903-smallest-stable-index-i](https://github.com/AmanCutinha/Leetcode/tree/master/3903-smallest-stable-index-i) |
 ## Counting Sort
 |  |
