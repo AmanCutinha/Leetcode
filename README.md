@@ -94,6 +94,7 @@
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/AmanCutinha/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/AmanCutinha/Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/AmanCutinha/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/AmanCutinha/Leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3524-find-x-value-of-array-i](https://github.com/AmanCutinha/Leetcode/tree/master/3524-find-x-value-of-array-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/AmanCutinha/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/AmanCutinha/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -233,6 +234,7 @@
 | ------- |
 | [1291-sequential-digits](https://github.com/AmanCutinha/Leetcode/tree/master/1291-sequential-digits) |
 | [3483-unique-3-digit-even-numbers](https://github.com/AmanCutinha/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/AmanCutinha/Leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Math
 |  |
 | ------- |
@@ -250,6 +252,7 @@
 | [1927-sum-game](https://github.com/AmanCutinha/Leetcode/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/AmanCutinha/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2614-prime-in-diagonal](https://github.com/AmanCutinha/Leetcode/tree/master/2614-prime-in-diagonal) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/AmanCutinha/Leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3524-find-x-value-of-array-i](https://github.com/AmanCutinha/Leetcode/tree/master/3524-find-x-value-of-array-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/AmanCutinha/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/AmanCutinha/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -332,6 +335,7 @@
 | ------- |
 | [0231-power-of-two](https://github.com/AmanCutinha/Leetcode/tree/master/0231-power-of-two) |
 | [1386-cinema-seat-allocation](https://github.com/AmanCutinha/Leetcode/tree/master/1386-cinema-seat-allocation) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/AmanCutinha/Leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Quickselect
 |  |
 | ------- |
