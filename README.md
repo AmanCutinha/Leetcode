@@ -41,6 +41,7 @@
 | [0678-valid-parenthesis-string](https://github.com/AmanCutinha/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0796-rotate-string](https://github.com/AmanCutinha/Leetcode/tree/master/0796-rotate-string) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/AmanCutinha/Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/AmanCutinha/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/AmanCutinha/Leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/AmanCutinha/Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/AmanCutinha/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -179,6 +180,7 @@
 | [0605-can-place-flowers](https://github.com/AmanCutinha/Leetcode/tree/master/0605-can-place-flowers) |
 | [0678-valid-parenthesis-string](https://github.com/AmanCutinha/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0860-lemonade-change](https://github.com/AmanCutinha/Leetcode/tree/master/0860-lemonade-change) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/AmanCutinha/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1386-cinema-seat-allocation](https://github.com/AmanCutinha/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/AmanCutinha/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/AmanCutinha/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -190,6 +192,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/AmanCutinha/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/AmanCutinha/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0678-valid-parenthesis-string](https://github.com/AmanCutinha/Leetcode/tree/master/0678-valid-parenthesis-string) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/AmanCutinha/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/AmanCutinha/Leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/AmanCutinha/Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/AmanCutinha/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -433,4 +436,8 @@
 |  |
 | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/AmanCutinha/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/AmanCutinha/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 <!---LeetCode Topics End-->
