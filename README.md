@@ -383,16 +383,19 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/AmanCutinha/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0200-number-of-islands](https://github.com/AmanCutinha/Leetcode/tree/master/0200-number-of-islands) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/AmanCutinha/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+| [2685-count-the-number-of-complete-components](https://github.com/AmanCutinha/Leetcode/tree/master/2685-count-the-number-of-complete-components) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/AmanCutinha/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/AmanCutinha/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0200-number-of-islands](https://github.com/AmanCutinha/Leetcode/tree/master/0200-number-of-islands) |
+| [2685-count-the-number-of-complete-components](https://github.com/AmanCutinha/Leetcode/tree/master/2685-count-the-number-of-complete-components) |
 ## Union-Find
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/AmanCutinha/Leetcode/tree/master/0200-number-of-islands) |
+| [2685-count-the-number-of-complete-components](https://github.com/AmanCutinha/Leetcode/tree/master/2685-count-the-number-of-complete-components) |
 ## Tree
 |  |
 | ------- |
@@ -444,4 +447,8 @@
 |  |
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/AmanCutinha/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+## Graph Theory
+|  |
+| ------- |
+| [2685-count-the-number-of-complete-components](https://github.com/AmanCutinha/Leetcode/tree/master/2685-count-the-number-of-complete-components) |
 <!---LeetCode Topics End-->
