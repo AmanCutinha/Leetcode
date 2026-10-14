@@ -193,6 +193,7 @@
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/AmanCutinha/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/AmanCutinha/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1927-sum-game](https://github.com/AmanCutinha/Leetcode/tree/master/1927-sum-game) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/AmanCutinha/Leetcode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/AmanCutinha/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Stack
 |  |
@@ -274,6 +275,7 @@
 | [3536-maximum-product-of-two-digits](https://github.com/AmanCutinha/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/AmanCutinha/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/AmanCutinha/Leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/AmanCutinha/Leetcode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3870-count-commas-in-range](https://github.com/AmanCutinha/Leetcode/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/AmanCutinha/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Number Theory
