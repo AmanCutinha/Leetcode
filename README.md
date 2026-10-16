@@ -69,6 +69,7 @@
 | [0056-merge-intervals](https://github.com/AmanCutinha/Leetcode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/AmanCutinha/Leetcode/tree/master/0057-insert-interval) |
 | [0088-merge-sorted-array](https://github.com/AmanCutinha/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/AmanCutinha/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0135-candy](https://github.com/AmanCutinha/Leetcode/tree/master/0135-candy) |
 | [0198-house-robber](https://github.com/AmanCutinha/Leetcode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/AmanCutinha/Leetcode/tree/master/0200-number-of-islands) |
@@ -240,6 +241,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/AmanCutinha/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/AmanCutinha/Leetcode/tree/master/0148-sort-list) |
 | [0347-top-k-frequent-elements](https://github.com/AmanCutinha/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/AmanCutinha/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -414,6 +416,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/AmanCutinha/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0102-binary-tree-level-order-traversal](https://github.com/AmanCutinha/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/AmanCutinha/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/AmanCutinha/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/AmanCutinha/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/AmanCutinha/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
@@ -422,6 +425,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/AmanCutinha/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0102-binary-tree-level-order-traversal](https://github.com/AmanCutinha/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/AmanCutinha/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/AmanCutinha/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/AmanCutinha/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/AmanCutinha/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Backtracking
@@ -468,4 +472,8 @@
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/AmanCutinha/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/AmanCutinha/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 <!---LeetCode Topics End-->
