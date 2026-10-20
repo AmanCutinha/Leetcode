@@ -111,6 +111,7 @@
 | [3771-total-score-of-dungeon-runs](https://github.com/AmanCutinha/Leetcode/tree/master/3771-total-score-of-dungeon-runs) |
 | [3838-weighted-word-mapping](https://github.com/AmanCutinha/Leetcode/tree/master/3838-weighted-word-mapping) |
 | [3875-construct-uniform-parity-array-i](https://github.com/AmanCutinha/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/AmanCutinha/Leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/AmanCutinha/Leetcode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/AmanCutinha/Leetcode/tree/master/3904-smallest-stable-index-ii) |
 ## Trie
@@ -288,6 +289,7 @@
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/AmanCutinha/Leetcode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3870-count-commas-in-range](https://github.com/AmanCutinha/Leetcode/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/AmanCutinha/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/AmanCutinha/Leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Number Theory
 |  |
 | ------- |
