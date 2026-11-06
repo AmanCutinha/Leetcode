@@ -5,14 +5,13 @@ public:
         int m=word2.size();
         int l=0,r=0;
         string ans="";
-
         while(l<n || r<m){
             if(l<n){
-                ans += word1[l];
+                ans+=word1[l];
                 l++;
             }
             if(r<m){
-                ans += word2[r];
+                ans+=word2[r];
                 r++;
             }
         }
